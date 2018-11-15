@@ -1,1 +1,1 @@
-docker pull quay.io/kubernetes-ingress-controller/nginx-ingress-controller:latest
+docker pull k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
